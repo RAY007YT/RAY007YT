@@ -51,16 +51,20 @@
 <details>
   <summary>:zap: Details</summary>
   
- [website]: https://codexdev.tk/ <br>
- [course]: http://vsCodeHero.com <br>
- [twitter]: https://twitter.com/codeSTACKr <br>
- [youtube]: https://youtube.com/codeSTACKr <br>
- [instagram]: https://instagram.com/codeSTACKr <br>
- [linkedin]: https://linkedin.com/in/ <br>
- [webdevplaylist]: https://www.youtube.com/playlist?list= <br>
- [jsplaylist]: https://www.youtube.com/playlist?list= <br>
- [cssplaylist]: https://www.youtube.com/playlist?list= <br>
- [reactplaylist]: https://www.youtube.com/playlist?list= <br>
+ Website: https://codexdev.tk/ <br>
+ Discord: https://discord.codexdev.tk/
+ Youtube: https://youtube.com/@GamerCodeX <br>
 </details>
+
+ [website]: https://codexdev.tk/ 
+ [course]: http://vsCodeHero.com 
+ [twitter]: https://twitter.com/codeSTACKr 
+ [youtube]: https://youtube.com/codeSTACKr 
+ [instagram]: https://instagram.com/codeSTACKr 
+ [linkedin]: https://linkedin.com/in/ 
+ [webdevplaylist]: https://www.youtube.com/playlist?list= 
+ [jsplaylist]: https://www.youtube.com/playlist?list= 
+ [cssplaylist]: https://www.youtube.com/playlist?list= 
+ [reactplaylist]: https://www.youtube.com/playlist?list= 
 
 
