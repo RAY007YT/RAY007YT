@@ -51,7 +51,7 @@
 <details>
   <summary>:zap: Details</summary>
   
- <img align="left" alt="JavaScript" width="26px" src="https://wallpapercave.com/wp/wp8761705.png" Website: https://codexdev.tk/ <br>
+ <img align="left" alt="Discord" width="26px" src="https://wallpapercave.com/wp/wp8761705.png"> Website: https://codexdev.tk/ <br>
  Discord: https://discord.codexdev.tk/ <br>
  Youtube: https://youtube.com/@GamerCodeX <br>
 </details>
